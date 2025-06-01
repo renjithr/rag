@@ -115,5 +115,5 @@ MIT License — Use it, extend it, contribute to it.
 
 ## 🙌 Credits
 
-Created by \[Your Name]
+Created by Renjith
 For devs who want their AI to actually understand their code.
